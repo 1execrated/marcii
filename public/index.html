@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>20 Notas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>20 notitas</h1>
+        <p>20 notas dedicadas solamente para ti marci <3</p>
+    </header>
+    <main>
+        <section id="notes-list">
+            <!-- Notes will be rendered here -->
+        </section>
+    </main>
+    <footer style="text-align:center; padding:1rem 0; color:#666; font-size:0.9rem;">
+        <small>20 notas, cada una hecha con ❤️</small>
+    </footer>
+    <div id="note-modal" class="modal hidden">
+        <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+            <button class="close-btn" id="close-modal" aria-label="Cerrar nota">&times;</button>
+            <h2 id="modal-title"></h2>
+            <div id="modal-body" class="modal-body" tabindex="0"></div>
+        </div>
+    </div>
+    <script src="notes.js"></script>
+</body>
+</html>

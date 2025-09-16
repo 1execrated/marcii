@@ -1,0 +1,285 @@
+/*
+  Dark theme inspired by Apple Notes (iOS/macOS) palette
+  Variables allow easy tuning across the UI
+*/
+:root {
+    --bg: #1C1C1E;             /* system background dark */
+    --surface-1: #2C2C2E;      /* primary surface */
+    --surface-2: #3A3A3C;      /* secondary surface */
+    --separator: #3A3A3C;      /* borders/separators */
+    --text: #FFFFFF;           /* primary text */
+    --text-muted: #B0B0B0;     /* secondary label */
+    --accent: #FFD60A;         /* Apple yellow accent */
+    --danger-muted: #ff6b6b;   /* subtle red for warnings/untitled */
+    --shadow: rgba(0,0,0,0.5);
+}
+
+* { box-sizing: border-box; }
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: var(--bg);
+    margin: 0;
+    padding: 0;
+    color: var(--text);
+}
+
+header {
+    background: var(--bg);
+    color: var(--text);
+    padding: 2rem 1rem 1rem 1rem;
+    text-align: center;
+    border-bottom: 1px solid var(--separator);
+}
+header h1 { margin: 0 0 .4rem; font-weight: 700; letter-spacing: 0.2px; }
+header p { margin: 0; color: var(--text-muted); }
+
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+#notes-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.9rem;
+}
+@media (max-width: 1100px) {
+    #notes-list { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 860px) {
+    #notes-list { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 560px) { #notes-list { grid-template-columns: 1fr; } }
+
+.note-card {
+    background: var(--surface-1);
+    border-radius: 12px;
+    box-shadow: 0 1px 0 var(--separator), 0 10px 24px -12px var(--shadow);
+    padding: 0.9rem 0.9rem;
+    cursor: pointer;
+    transition: transform 0.12s ease, box-shadow 0.12s ease, background-color 0.12s ease;
+    border: 1px solid var(--separator);
+    display:flex;
+    flex-direction:column;
+    position: relative;
+    overflow: hidden;
+}
+.note-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 0 var(--separator), 0 18px 30px -14px var(--shadow);
+    background: var(--surface-2);
+}
+
+.note-card:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+}
+
+.note-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 0.1rem;
+    color: var(--text);
+}
+.note-title.untitled { color: var(--danger-muted); }
+
+.meta-row {
+    display:flex;
+    gap:0.5rem;
+    align-items:center;
+    margin-bottom:0.6rem;
+    flex-wrap: wrap; /* allow badges to wrap to next line if needed */
+}
+.badge {
+    background: var(--surface-2);
+    color: var(--text-muted);
+    font-size:0.78rem;
+    padding:0.22rem 0.5rem;
+    border-radius:6px;
+    border:1px solid var(--separator);
+    white-space: nowrap; /* keep date/time/words on one line */
+}
+.note-number { font-weight:700; color: var(--accent); border-color: rgba(255,214,10,0.35); }
+
+/* no preview on card grid anymore; preserve class just in case */
+.note-preview { display:none; }
+.modal {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+.modal.hidden {
+    display: none;
+}
+.modal-content {
+    background: var(--surface-2);
+    border-radius: 14px;
+    padding: 1.4rem 1.6rem 1.2rem 1.6rem;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.55);
+    max-width: 920px;
+    width: 94%;
+    position: relative;
+    animation: popIn 0.18s cubic-bezier(.2,.9,.3,1);
+    border: 1px solid var(--separator);
+}
+@keyframes popIn {
+    from { transform: scale(0.95); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+.close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1.2rem;
+    font-size: 1.5rem;
+    color: var(--text);
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.15s;
+}
+.close-btn:hover {
+    opacity: 1;
+}
+#modal-title {
+    margin-top: 0;
+    margin-bottom: 0.7rem;
+    color: var(--text);
+}
+#modal-title.untitled { color: var(--danger-muted); }
+#modal-body {
+    color: var(--text);
+    font-size: 1.05rem;
+    line-height: 1.6;
+    white-space: pre-line;
+}
+
+/* make modal body scrollable when note is long */
+.modal-content { max-height: 78vh; }
+.modal-content > .note-meta-large + div { max-height: calc(78vh - 6.2rem); overflow: auto; }
+
+.note-meta-large { color: var(--text-muted); font-size:0.9rem; margin-bottom:0.6rem }
+.note-draft { display:inline-block; background: rgba(255,214,10,0.12); color:#FFD60A; padding:0.15rem 0.5rem; border-radius:6px; border:1px solid rgba(255,214,10,0.3); margin-left:0.5rem; font-weight:600 }
+
+/* modal layout: header + scrollable body */
+.modal-content { display:flex; flex-direction:column; max-height: 80vh; }
+.modal-body { overflow:auto; padding-top:0.3rem; }
+
+.close-btn { background:transparent; border:none; padding:0; }
+
+/* subtle fade for entry */
+.note-card { animation: cardIn 0.38s both; }
+@keyframes cardIn { from { transform: translateY(8px); opacity:0 } to { transform: translateY(0); opacity:1 } }
+
+/* footer color override (index.html has inline color) */
+footer small { color: var(--text-muted) !important; }
+
+/* nicer scrollbars on Windows */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--separator) transparent;
+}
+*::-webkit-scrollbar { height: 10px; width: 10px; }
+*::-webkit-scrollbar-thumb { background: var(--separator); border-radius: 8px; }
+*::-webkit-scrollbar-track { background: transparent; }
+
+/* Lock screen overlay */
+.lock-screen {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+    animation: fadeIn 0.18s ease-out both;
+}
+.lock-screen.fade-out { animation: fadeOut 0.18s ease-in both; }
+
+.lock-card {
+    background: var(--surface-2);
+    border: 1px solid var(--separator);
+    border-radius: 14px;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.55);
+    padding: 1.4rem 1.6rem 1.2rem 1.6rem;
+    width: min(92%, 420px);
+    text-align: center;
+    animation: popIn 0.18s cubic-bezier(.2,.9,.3,1);
+    position: relative;
+}
+.lock-card.shake { animation: shake 0.28s ease; }
+
+.lock-icon { font-size: 1.6rem; margin-bottom: .4rem; }
+.lock-sub { color: var(--text-muted); margin: 0 0 1rem; }
+
+.lock-card input[type="password"] {
+    width: 100%;
+    background: var(--surface-1);
+    color: var(--text);
+    border: 1px solid var(--separator);
+    border-radius: 10px;
+    padding: 0.65rem 0.8rem;
+    outline: none;
+}
+.lock-card input[type="password"]:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 2px rgba(255,214,10,0.25);
+}
+
+.lock-btn {
+    margin-top: 0.7rem;
+    width: 100%;
+    background: var(--accent);
+    color: #1C1C1E;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    padding: 0.6rem 0.9rem;
+    cursor: pointer;
+}
+.lock-btn:hover { filter: brightness(0.95); }
+.lock-btn:active { transform: translateY(1px); }
+
+.lock-error { color: var(--danger-muted); margin-top: .6rem; min-height: 1.2em; }
+
+@keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+@keyframes fadeOut { from { opacity: 1 } to { opacity: 0 } }
+@keyframes shake {
+  10%, 90% { transform: translateX(-1px); }
+  20%, 80% { transform: translateX(2px); }
+  30%, 50%, 70% { transform: translateX(-4px); }
+  40%, 60% { transform: translateX(4px); }
+}
+
+/* Toasts */
+.toast-container {
+    position: fixed;
+    left: 50%;
+    bottom: 24px;
+    transform: translateX(-50%);
+    z-index: 3000;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    pointer-events: none;
+}
+.toast {
+    background: rgba(58,58,60,0.95);
+    color: var(--text);
+    border: 1px solid var(--separator);
+    border-radius: 12px;
+    padding: 10px 14px;
+    box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+    animation: toastIn 0.22s cubic-bezier(.2,.9,.3,1);
+    pointer-events: auto;
+}
+.toast.fade-out { animation: toastOut 0.22s ease; }
+
+@keyframes toastIn { from { opacity: 0; transform: translate(-50%, 8px) } to { opacity: 1; transform: translate(-50%, 0) } }
+@keyframes toastOut { from { opacity: 1; transform: translate(-50%, 0) } to { opacity: 0; transform: translate(-50%, 6px) } }
