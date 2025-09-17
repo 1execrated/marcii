@@ -1019,7 +1019,7 @@ Quiero ser tu amor y demostrarte que para mí no hay otra como tú, y nunca la h
 
 Siempre serás tú, mi único corazón de melón.
 
-Marci, eres el verdadero amor de mi vida, y nunca va a cambiar eso. Lo único que cambiaría sería mi edad, pero la cantidad de amor que te tengo solo seguirá incrementando cada momento. (Psss... Por cierto, la contraseña es "53-'9" jijiji.)
+Marci, eres el verdadero amor de mi vida, y nunca va a cambiar eso. Lo único que cambiaría sería mi edad, pero la cantidad de amor que te tengo solo seguirá incrementando cada momento.
 
 Y perdón por la despedida que haré, pero quisiera solo poder llamarte así una última vez.
 
