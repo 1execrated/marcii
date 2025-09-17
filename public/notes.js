@@ -1269,7 +1269,7 @@ function showNote21Screen(onAllow) {
                     <button type="button" class="close-btn" aria-label="Cerrar">&times;</button>
                 <div class="lock-icon" aria-hidden="true">🔐</div>
                 <h2 id="n21-title">Nota 21</h2>
-                <p class="lock-sub">Ingresa la contraseña para ver esta nota</p>
+                <p class="lock-sub">esta nota require una contraa jejeje</p>
                 <form id="n21-form" autocomplete="off">
                     <input id="n21-input" type="password" inputmode="text" placeholder="Contraseña" autocomplete="off" aria-label="Contraseña de la nota 21" />
                     <button type="submit" class="lock-btn">Ver nota</button>
