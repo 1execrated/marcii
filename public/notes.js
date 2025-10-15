@@ -987,72 +987,120 @@ Te amo marci, muchas gracias por todo <3.
         date: '9/15',
         time: '8:22 AM',
         body: `
-        Hoy es el día de la independencia en Guatemala, y no fuimos al colegio. Supongo que fue algo bueno porque pude escribir la última nota de las 20 que te quería escribir.
+                Hoy es el día de la independencia en Guatemala, y no fuimos al colegio. Supongo que fue algo bueno porque pude escribir la última nota de las 20 que te quería escribir.
 
-Quisiera que la última nota fuera también una de las más bonitas. Tal vez no solo con decirte que tienes una cara muy hermosa, o que tu pelo es super precioso, o que tus ojos cafés me desmayan cada vez que los veo. Sino para decirte gracias por todo durante este año y por lo que falta de él.
+        Quisiera que la última nota fuera también una de las más bonitas. Tal vez no solo con decirte que tienes una cara muy hermosa, o que tu pelo es super precioso, o que tus ojos cafés me desmayan cada vez que los veo. Sino para decirte gracias por todo durante este año y por lo que falta de él.
 
-Desde enero, que empezaste a darme señales de que te gustaba, fue que me empezaste a gustar. Y aunque apenas me hayas empezado a gustar este año, me parece increíble que en tan poco tiempo te volviste lo que ahora considero el amor de mi vida.
+        Desde enero, que empezaste a darme señales de que te gustaba, fue que me empezaste a gustar. Y aunque apenas me hayas empezado a gustar este año, me parece increíble que en tan poco tiempo te volviste lo que ahora considero el amor de mi vida.
 
-Porque eres eso, Paulette, eres el amor de mi vida. Y no quiero que pienses que no lo fuiste o no lo eres, porque mientras sepa que sigues viva, vas a seguir siendo el amor de mi vida.
+        Porque eres eso, Paulette, eres el amor de mi vida. Y no quiero que pienses que no lo fuiste o no lo eres, porque mientras sepa que sigues viva, vas a seguir siendo el amor de mi vida.
 
-Aunque la gente me llame migajero, arrastrado, un rogón o miles de insultos más, te voy a seguir amando igual, si no es que más que hace un segundo (no sé si está bien dicho, pero quiero decir que te amo más cada segundo).
+        Aunque la gente me llame migajero, arrastrado, un rogón o miles de insultos más, te voy a seguir amando igual, si no es que más que hace un segundo (no sé si está bien dicho, pero quiero decir que te amo más cada segundo).
 
-Te agradezco por todos esos actos: el regalo de San Valentín, el regalo de mi cumpleaños, y lo que para mí fue el mejor regalo: todo tu afecto y cariño. Todos tus besos, tus abrazos, tus acciones, tus palabras, tus intenciones, todo. Todo eso para mí significa mucho.
+        Te agradezco por todos esos actos: el regalo de San Valentín, el regalo de mi cumpleaños, y lo que para mí fue el mejor regalo: todo tu afecto y cariño. Todos tus besos, tus abrazos, tus acciones, tus palabras, tus intenciones, todo. Todo eso para mí significa mucho.
 
-Muchas gracias por cambiar mi forma de ser (de forma positiva), gracias por demostrarme que es amor de verdad y por darme una experiencia única que solo tú eres capaz de entregar.
+        Muchas gracias por cambiar mi forma de ser (de forma positiva), gracias por demostrarme que es amor de verdad y por darme una experiencia única que solo tú eres capaz de entregar.
 
-Tus labios tan suaves que siempre voy a querer besar, tus manos tan cálidas que siempre voy a querer agarrar aunque sea por solo un segundo, tus ojos que siempre voy a querer ver, tu sonrisa que siempre me da felicidad, y miles de cosas más tuyas que simplemente me enamoran más cada día.
+        Tus labios tan suaves que siempre voy a querer besar, tus manos tan cálidas que siempre voy a querer agarrar aunque sea por solo un segundo, tus ojos que siempre voy a querer ver, tu sonrisa que siempre me da felicidad, y miles de cosas más tuyas que simplemente me enamoran más cada día.
 
-Todo de ti me encanta, y no quiero que lo dudes. Todo lo que piensas que se ve "mal" en ti o no "queda" contigo, para mí siempre se verá bien. Tus marcas, tus cicatrices, incluso tus inseguridades más profundas las veré bonitas, y nunca voy a juzgarte de ninguna forma.
+        Todo de ti me encanta, y no quiero que lo dudes. Todo lo que piensas que se ve "mal" en ti o no "queda" contigo, para mí siempre se verá bien. Tus marcas, tus cicatrices, incluso tus inseguridades más profundas las veré bonitas, y nunca voy a juzgarte de ninguna forma.
 
-Gracias por ser mi compañera, por ser mi amiga, mi mejor amiga, mi casi algo, por ser mi hermosa novia, por ser mi ex, por siempre dejarme ser una parte de ti. Gracias por dejarme ser el amor de tu vida, como tú dijiste.
+        Gracias por ser mi compañera, por ser mi amiga, mi mejor amiga, mi casi algo, por ser mi hermosa novia, por ser mi ex, por siempre dejarme ser una parte de ti. Gracias por dejarme ser el amor de tu vida, como tú dijiste.
 
-Te escribiría mil cartas más, quisiera comprarte el mundo entero, bajarte la luna, las estrellas, el sol, joder todo el sistema solar si pudiera.
+        Te escribiría mil cartas más, quisiera comprarte el mundo entero, bajarte la luna, las estrellas, el sol, joder todo el sistema solar si pudiera.
 
-Te quisiera dar flores todos los días, darte tus gomitas favoritas todos los días, besarte todos los días, abrazarte todos los días, regalarte cualquier detallito todos los días, decirte "te amo" todos los días, demostrarte todos los días que te amo tanto.
+        Te quisiera dar flores todos los días, darte tus gomitas favoritas todos los días, besarte todos los días, abrazarte todos los días, regalarte cualquier detallito todos los días, decirte "te amo" todos los días, demostrarte todos los días que te amo tanto.
 
-Quiero llevar todas tus colas en mi muñeca, cualquier pulsera que me quieras dar (quiero la roja de vuelta 😡, mentira, esa es mi culpa), quiero ponerme tu ganchito en mi camisa.
+        Quiero llevar todas tus colas en mi muñeca, cualquier pulsera que me quieras dar (quiero la roja de vuelta 😡, mentira, esa es mi culpa), quiero ponerme tu ganchito en mi camisa.
 
-Quiero volver a darte mi chumpa cuando tengas frío y que la llenes de olor a tu perfume, quiero invitarte a todo, quiero comprarte un helado cuando quieras uno, salir a ver una película contigo aunque esté castigado, quiero compartir momentos contigo, quiero todo contigo.
+        Quiero volver a darte mi chumpa cuando tengas frío y que la llenes de olor a tu perfume, quiero invitarte a todo, quiero comprarte un helado cuando quieras uno, salir a ver una película contigo aunque esté castigado, quiero compartir momentos contigo, quiero todo contigo.
 
-Quiero ser tu amor y demostrarte que para mí no hay otra como tú, y nunca la habrá.
+        Quiero ser tu amor y demostrarte que para mí no hay otra como tú, y nunca la habrá.
 
-Siempre serás tú, mi único corazón de melón.
+        Siempre serás tú, mi único corazón de melón.
 
-Marci, eres el verdadero amor de mi vida, y nunca va a cambiar eso. Lo único que cambiaría sería mi edad, pero la cantidad de amor que te tengo solo seguirá incrementando cada momento.
+        Marci, eres el verdadero amor de mi vida, y nunca va a cambiar eso. Lo único que cambiaría sería mi edad, pero la cantidad de amor que te tengo solo seguirá incrementando cada momento.
 
-Y perdón por la despedida que haré, pero quisiera solo poder llamarte así una última vez.
+        Y perdón por la despedida que haré, pero quisiera solo poder llamarte así una última vez.
 
-Te amo mucho mi princesa,
-te amo de aquí hasta la luna a paso de tortuga <33.
-`
-    },
-    {
-        title: 'vigésima primera',
-        number: 21,
-        of: 20,
-        date: '9/16',
-        time: '12:49 AM',
-        body: `Si estás leyendo esta carta, te amo, y aunque no la estés leyendo, también te amo.
+        Te amo mucho mi princesa,
+        te amo de aquí hasta la luna a paso de tortuga <33.
+        `
+            },
+            {
+                title: 'vigésima primera',
+                number: 21,
+                of: 20,
+                date: '9/16',
+                time: '12:49 AM',
+                body: `Si estás leyendo esta carta, te amo, y aunque no la estés leyendo, también te amo.
 
-Esta carta es solo para dar un pequeño cierre a todo esto, y también para confesar y revelar un poco de datos curiosos.
+        Esta carta es solo para dar un pequeño cierre a todo esto, y también para confesar y revelar un poco de datos curiosos.
 
-De primeras, siento mucho que no te escribí estas 20 cartas a mano. Tal vez hubiera sido más bonito, pero preferí hacerlo en una página, porque para mí significa más programar toda una página completa solamente para ti, y poder contener todas estas notas en una página donde solo tú (y a todas las personas que quieras compartir, supongo...) y yo tenemos acceso.
+        De primeras, siento mucho que no te escribí estas 20 cartas a mano. Tal vez hubiera sido más bonito, pero preferí hacerlo en una página, porque para mí significa más programar toda una página completa solamente para ti, y poder contener todas estas notas en una página donde solo tú (y a todas las personas que quieras compartir, supongo...) y yo tenemos acceso.
 
-Ahora, otra cosa que espero que no te genere dudas o te llene de curiosidad (que es lo más probable), es que no te escribí 20 notas específicamente. No me refiero a que no las hice yo o que no tuve la intención, me refiero a que he escrito alrededor de ~50 notas, y decidí poner las 20 notas que más encontré significativas y emocionantes para esta pequeña recopilación.
+        Ahora, otra cosa que espero que no te genere dudas o te llene de curiosidad (que es lo más probable), es que no te escribí 20 notas específicamente. No me refiero a que no las hice yo o que no tuve la intención, me refiero a que he escrito alrededor de ~50 notas, y decidí poner las 20 notas que más encontré significativas y emocionantes para esta pequeña recopilación.
 
-Las demás cartas tal vez en algún futuro verán la luz a tus lindos ojos, pero por ahora quiero que tomes estas 20 notas como son, y espero que te puedas conformar con estas pocas. No te lo digo de mala manera, te lo digo porque creo que sería muy agotador leer más de 30 cartas, sabiendo que algunas tienen más de 1000 palabras.
+        Las demás cartas tal vez en algún futuro verán la luz a tus lindos ojos, pero por ahora quiero que tomes estas 20 notas como son, y espero que te puedas conformar con estas pocas. No te lo digo de mala manera, te lo digo porque creo que sería muy agotador leer más de 30 cartas, sabiendo que algunas tienen más de 1000 palabras.
 
-Pero hey, con eso tal vez te quiero demostrar que siempre has estado en mi cabeza, tanto que hasta parece que estoy haciendo un diario sobre ti y lo mucho que te amo.
+        Pero hey, con eso tal vez te quiero demostrar que siempre has estado en mi cabeza, tanto que hasta parece que estoy haciendo un diario sobre ti y lo mucho que te amo.
 
-Con todo esto, quiero que sepas que te amo demasiado marci, y es que simplemente no hay palabras para describir lo mucho que te adoro. Y créeme que no me imagino una vida sin ti, eres la persona más perfecta e increíble que he conocido.
+        Con todo esto, quiero que sepas que te amo demasiado marci, y es que simplemente no hay palabras para describir lo mucho que te adoro. Y créeme que no me imagino una vida sin ti, eres la persona más perfecta e increíble que he conocido.
 
-Gracias por aparecer en mi vida y por darme los momentos más bonitos y memorables de toda mi vida.
+        Gracias por aparecer en mi vida y por darme los momentos más bonitos y memorables de toda mi vida.
 
-Espero poder hacerte igual de feliz cuando tenga las oportunidades.
+        Espero poder hacerte igual de feliz cuando tenga las oportunidades.
 
 
-Por cierto, nunca pregunté en ninguna de las notas, pero... Quisieras darle otra oportunidad a nuestra relación y, si me dejas, poder volver a agarrar tu mano y en un futuro volver a poder llamarte mi novia?`
+        Por cierto, nunca pregunté en ninguna de las notas, pero... Quisieras darle otra oportunidad a nuestra relación y, si me dejas, poder volver a agarrar tu mano y en un futuro volver a poder llamarte mi novia?`
+            },
+            {
+            title: 'gracias por todo',
+            number: 22,
+            of: 20,
+            date: '10/14',
+            time: '7:12 PM',
+            body: `Y perdón, perdón, perdón de verdad. Y solo quiero que sepas que todos estos días, realmente que todos estos días, te he estado pensando siempre; nunca te dejo de pensar. Me preocupo por si me ves, por si piensas en mí, por si tal vez quieres algo más de mí, si tal vez esperas algo en algún momento, por si realmente no esperas nada, por si tal vez quieres que un día llegue contigo y solo te diga si te sientes bien, por si crees que mereces más o que simplemente quieres que te deje en paz.
+
+        Aunque, volviéndolo a pensar, me doy cuenta de tantas cosas. Y son tantos pensamientos en solo una cabeza como la mía, tantas palabras y sentimientos en una sola nota, que solamente se me hace muy difícil mantener el orden de cada cosita, pero solo me calmo un poco si lo pongo todo acá.
+
+        Todos los días, en clase, siempre quiero verte, pero sé que no debo, y sé que si me volteas a ver no será la mirada que yo quiero devuelta. Porque sé que ya no quieres nada, y tal vez sí fue y es la mejor opción, pero a veces me pongo a pensar sobre todo el tiempo que pasamos juntos, y me duele pensar que de un momento para otro pasó todo. Y no te estoy diciendo que te arrepientas o que te retractes, porque no, quiero que, aunque yo te ruegue y me arrastre hasta cuando ya no haya piso, tú sigas el camino que tú quieras.
+
+        SÍ, extraño tus abrazos, tus caricias, tus besos, cuando me llamabas Tati, tus miradas que me hacías, tu cinturita, el simple hecho de saber que podía levantarme todos los días y saber que había alguien que me amaba y que yo amaba de vuelta. Duele mucho, pero también dicen que amar es dejar ir. Aunque yo pienso que son puras mamadas, porque si en verdad fuera amor, no te irías (eeeh, qué?).
+
+        A veces quisiera que el colegio durara más, para poder ver si hubiera pasado algo más al final, o algo más dentro de un mes. Tal vez ya hubieras curado o tal vez tendrías ganas de volver a verme como antes. Pero no, y no quiero que pase. Y es que me veo bipolar y muy contradictorio, pero todo esto es lo que yo quiero, pensando solo en mí, pero prefiero ir por la mejor opción pensando en ti y en los dos.
+
+        Y, ¿sabes? Desde hace ratos yo pienso que ya no me amas o que simplemente decidiste rendirte, y pues, yo decidí solo intentar rendirme. Pero no entiendes las ganas que tengo de hablarte o de solo recibir un abrazo tuyo. Pero te ignoro, y siempre me hago el loco, porque tal vez es lo mejor para mí. Si ignorarte me hace curar más rápido, entonces tal vez es la mejor opción. Y perdón si es que te duele y si te hace pensar que te odio o algo así, en verdad, perdón.
+
+        Obviamente, no quiero ser tan orgulloso como para no decirte un último adiós, y tampoco es que sea orgulloso, como digamos… pero ajá.
+
+        Creo que ya sabes (definitivamente sí, lol) que me voy a cambiar de colegio, y supuestamente tú también. Y esto para mí es un cambio muy grande. Nunca pensé en cambiarme de colegio porque ya había pasado 10 años de mi vida ahí. Y, pues, recuerdo cuando tú me dijiste a mí que tenías miedo de qué pasaría en vacaciones entre tú y yo, y siento que ese miedo tuyo ya se fue. Pero no está mal, solo que siento que el que tiene el miedo ahora soy yo. Y me da mucho miedo, demasiado, porque no tengo idea de qué pueda pasar. A ti te puede gustar otra persona, tal vez te vas del país o algo así, y yo, pues, desaparezco simplemente de tus preocupaciones. Mientras que a mí me da miedo porque siento que no voy a tener tiempo para nada o que el tiempo se me acaba, al igual que siento que ya no estaré igual de cerca con todos; tal vez todos me olvidan y formo otro grupo, tal vez incluso más de alguno me bloquea o algo así, supongo. Pienso que cuando se acabe el colegio va a ser cuando nuestra relación realmente llegue a un fin, aunque tampoco es como que ahora tengamos algo. Me refiero a que, por lo menos, sabía que yo te importaba tan solo un poquito, lo suficiente como para saber que aún había una pequeña parte de mí en tu cabeza.
+
+        Pero ahora, ¿qué?
+
+        Me parece increíble tantas cosas, como hace como un mes acordamos que el 31 de octubre vendrías a mi casa para hacer match en Halloween o cosas así, o como yo tenía planeado darte un regalo de Navidad (nunca te lo conté… mala mía) en persona.
+
+        Pero se me hace muy larga la nota, y no quiero que te aburras, aunque creo que ya te aburriste de todos modos.
+
+        Quiero que sepas que nunca voy a borrar las fotos, tampoco dejaré de escuchar las canciones que me recomendaste. Me seguirán encantando el tipo de brownies que me diste en mi cumpleaños; no tiraré ninguna nota, tendré guardado cada recuerdo tuyo en un lugar especial solo para ti.
+
+        Y solo quiero que sepas que, aunque esté mal, y aunque sé que no lo dirás de vuelta, ya sea porque no quieras o porque no debas, en verdad te amo. Te amo demasiado; te amo de aquí hasta la puta luna y más. Te amo mucho más de lo que crees, y no te voy a dejar de amar, porque aunque envejezca y esté recostado en una camilla, dando mis últimos alientos, y sienta que mis pulmones ya no dan para más, siempre habrá una parte de mi corazón que te seguirá amando con el mismo fuego ardiente con el que una vez te amé.
+
+        Y sé que me lo dijiste, y perdón, realmente perdón, pero siempre, siempre, siempre estaré esperándote. Aunque no se note, aunque no reaccione de la mejor forma, aunque no me vea bien ante ti, siempre estaré aquí esperándote. Cualquier día, cualquier hora, por cualquier medio, siempre estaré aquí, en el mismo lugar de siempre, esperándote solo a ti.
+
+        Y sí, suena muy migajero, rogón y los mil insultos más que existen para mí en específico, pero, si algún día me extrañas y realmente sientes que quieres volver a estar conmigo, a mi lado, siempre podrás enviarme algún mensaje, algún hola o cualquier cosa, y yo siempre estaré ahí para responderte.
+
+        Aunque no creo que eso pase, espero que sí pase en algún otro universo/realidad/mundo, no sé. Espero que cada uno siga su propio rumbo y pueda vivir su vida, pero que los dos tengan el mismo destino.
+
+        Eso sería todo por esta nota, y perdón por tanto texto y por tantas cosas que tal vez no debí haber dicho a estas alturas, pero prefiero decirlas ahorita que guardármelas.
+
+        Gracias por todo, Marci, en verdad que gracias por todo. No entiendes lo mucho que significas para mí.
+
+        53-‘0 de aquí hasta el universo.
+
+        Atentamente,
+        Santiago (estaría épico mi firma aquí)`
+
     },
 ]
 
